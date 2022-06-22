@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- come from chinese
+- come from China
 - currently learning computer science in France
 - focus on back-end develop and cloud develop
 
