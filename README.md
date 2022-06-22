@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+- come from chinese
+- currently learning computer science in France
+- focus on back-end develop and cloud develop
+
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=kagamigawa-kuroe)]()
 
 <!--
@@ -7,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
