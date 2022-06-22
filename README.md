@@ -4,7 +4,9 @@
 - currently learning computer science in France
 - focus on back-end develop and cloud develop
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagamigawa-kuroe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagamigawa-kuroe)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kagamigawa-kuroe/kagamigawa-kuroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
