@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-CS student who focus on back-end development.
+CS student who focus on back-end development.  
 
 Technology stack:
 - [x] C++/Linux development.
