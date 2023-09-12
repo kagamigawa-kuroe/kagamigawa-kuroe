@@ -1,10 +1,11 @@
 ### Hi there 👋
 ---
-CS student who focus on back-end development.  
+CS student who focus on back-end development.
 
 Technology stack:
-- [x] C++/Linux development.
-- [x] Java back-end.
+- [x] C++ / Linux development.
+- [x] Java back-end: Spring, Mysql, Redis, ZK, Kafka ...
 - [x] Other language: Golang, Python, Shell ...
-- [x] A little front-end: Vue/React.
-- [x] ...
+- [x] A little front-end: Vue / React.
+- [x] DevOps: Git, Docker, K8s, CI/CD ...
+- [] ...
